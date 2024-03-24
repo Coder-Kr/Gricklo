@@ -789,7 +789,7 @@ body{
     .header-navigation{
         display: none;
     }
-    
+
     .header-section{
         justify-content: space-between;
     }
@@ -1157,7 +1157,7 @@ body{
     
     .main-section__buttons{
         display: flex;
-        justify-content: space-around;
+        justify-content: center;
         flex-wrap: wrap;
         top: 70px;
     }
